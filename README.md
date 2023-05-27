@@ -8,5 +8,5 @@ An example of hexagonal architecture in a java project
    * build
    * tests
    * sonar
-2. Delete branch on merge
-3. Force rebase branch onto master before merge?
+2. ~~Delete branch on merge~~
+3. More Todos
