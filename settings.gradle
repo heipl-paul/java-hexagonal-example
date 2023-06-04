@@ -1,2 +1,5 @@
 rootProject.name = 'java-hexagonal-example'
 
+include 'adapter'
+include 'application'
+include 'domain'

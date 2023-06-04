@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.heipl.hexagonal'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = JavaVersion.VERSION_17
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    // Variables for dependency versions
+}
+
+dependencies {
+    // TODO add dependencies
+}
